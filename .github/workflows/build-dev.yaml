@@ -1,9 +1,5 @@
 name: Build & Deploy — Dev
 
-permissions:
-  contents: read
-  packages: write
-
 on:
   push:
     branches:
